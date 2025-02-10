@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning about AI, Deep Learning, LLMs, CV ...
+🌱 I’m currently learning about AI, Deep Learning, LLMs, CV
 
 <!--
 **gomgomcode/gomgomcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
